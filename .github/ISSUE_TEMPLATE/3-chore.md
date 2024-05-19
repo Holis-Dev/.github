@@ -1,6 +1,6 @@
 ---
 name: Chore
-about: Here we go again
+about: Maintenance tasks to improve codebase health and efficiency 🛠️
 title: "[CHORE] My chore"
 labels: "chore"
 assignees: ""
@@ -9,9 +9,9 @@ assignees: ""
 **Description**
 A clear and concise description of this chore.
 
-**Steps**
+**Tasks breakdown**
 
-- [ ] Transport rocket to launchpad.
-- [ ] Fill the tank.
-- [ ] Checkup flight readiness.
-- [ ] Liftoff.
+- [ ] Update packages
+- [ ] Verify the package.json and package.lock.json
+- [ ] Start the code and verify if there is no type or functional errors
+- [ ] run build and test before asking review

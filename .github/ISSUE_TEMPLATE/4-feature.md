@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: It's not a bug, it's a feature.
+about: Open a feature issue to add new functionalities an make the platform even better 🚀.
 title: "[FEAT] My feature"
 labels: "feat"
 assignees: ""
@@ -9,12 +9,9 @@ assignees: ""
 **Description**
 A clear and concise description of this feature.
 
-**Suggested Solutions**
-A clear and concise description of the solutions you've considered.
+**Functionalities**
 
-**Steps**
-
-- [ ] Transport rocket to launchpad.
-- [ ] Fill the tank.
-- [ ] Checkup flight readiness.
-- [ ] Liftoff
+- [ ] Create rocket assembly automation.
+- [ ] Implement fuel management system.
+- [ ] Establish flight readiness monitoring.
+- [ ] Develop engine ignition protocol.
