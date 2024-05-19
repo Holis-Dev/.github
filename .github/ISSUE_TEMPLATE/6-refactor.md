@@ -7,11 +7,6 @@ assignees: ""
 ---
 
 **Description**
+[Permalink to the code that needs to be refactor]()
+
 A clear and concise description of this refactor.
-
-**Steps**
-
-- [ ] Transport rocket to launchpad.
-- [ ] Fill the tank.
-- [ ] Checkup flight readiness.
-- [ ] Liftoff.

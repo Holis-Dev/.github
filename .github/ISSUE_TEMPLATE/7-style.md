@@ -6,10 +6,12 @@ labels: "style"
 assignees: ""
 ---
 
-[optional link to figma](https://google.com)
+[optional link to figma](https://www.figma.com/)
 
 **Description**
 A clear and concise description of this style issue.
+
+[Add path of the component or permalink to the code]()
 
 **Screenshots**
 Add screenshots here if needed
